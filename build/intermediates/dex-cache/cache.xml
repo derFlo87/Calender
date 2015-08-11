@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\Flo\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-v4\19.1.0\support-v4-19.1.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="85f201b380937e61a9dce6ca90ccf6872abbfb67">
+        <dex dex="C:\Users\Flo\Documents\Apps\CalendarAndroidFromHome\app\build\intermediates\pre-dexed\debug\support-v4-19.1.0-c8bdd8b17609cd41636f1c6577b963747ec6d89a.jar" />
+    </item>
+    <item
+        jar="C:\Users\Flo\Documents\Apps\CalendarAndroidFromHome\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\19.1.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="3499ceba05ca1f6037c6a2fad73df8f636224a28">
+        <dex dex="C:\Users\Flo\Documents\Apps\CalendarAndroidFromHome\app\build\intermediates\pre-dexed\debug\classes-ae77ea8757e5bd8e544596348ec614b529072d76.jar" />
+    </item>
+
+</items>
